@@ -51,7 +51,7 @@ WEB
 
 <section align="center">
 
-<a href="#">
+<a href="https://github.com/Chinicuil87/Python/tree/main/flet/contador">
 <img src="../../img/github.png" alt="icono github" style="width:42px;height:42px;">
 </a>
 
