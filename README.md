@@ -1,11 +1,17 @@
+<!-- Imagen de Python centrada-->
 <p align="center">
 <img src="./img/python.png"
  width="300">
 </p>
 
+<!-- Titulo de README-->
 <h1 align="center" id="python">Programación Python</h1>
 
+<!-- Descripcion de README-->
+
 Repositorio que contiene todos los proyectos y ejercicios hechos en Python, con la finalidad de brindar información de mis avances y habilidades adquiridas durante las certificaciones.
+
+<!-- Plataformas de los cursos tomados-->
 
 ## Plataformas
 
@@ -17,6 +23,8 @@ Repositorio que contiene todos los proyectos y ejercicios hechos en Python, con 
 
 </section>
 
+<!-- Programas necesarios-->
+
 ## Programas
 
 1. [Python](https://www.python.org/)
@@ -26,38 +34,63 @@ Repositorio que contiene todos los proyectos y ejercicios hechos en Python, con 
 - [VSC](https://code.visualstudio.com/)
 - [PyCharm](https://www.jetbrains.com/es-es/pycharm/download/?section=windows)
 
+<!-- Proyectos y ejercicios realizados -->
+
 ## Proyectos y Ejercicios
 
-[A. Codigo Facilito](./CodigoFacilito/)
+[1. Codigo Facilito](./CodigoFacilito/)
 
-1. [Hola Mundo](holaMundo)
-2. [Saludo a Usuario](saludoUsuario)
+> [1.1 Curso de Python Profesional](https://codigofacilito.com/cursos/python-profesional)
 
-[B. YouTube](./YouTube/)
+<section align="center">
 
-1. [Formulario](formulario)
-2. [Gato](gato)
-3. [Documentos automaticos](documentosPersonalizados)
+![Static Badge](https://img.shields.io/badge/ESTATUS-Terminado-green)
 
-[C. Udemy](./Udemy/)
+</section>
 
-## Estatus
+[2. YouTube](./YouTube/)
 
-<h4 align="center">
+[3. Udemy](./Udemy/)
 
-![Static Badge](https://img.shields.io/badge/Estatus-Proceso-yellow)
+> [3.1 Python TOTAL - Programador Avanzado en 16 días](https://www.udemy.com/course/python-total/?couponCode=ST18MT12125AROW)
 
-</h4>
+<section align="center">
+
+![Static Badge](https://img.shields.io/badge/ESTATUS-Terminado-green)
+
+</section>
+
+> [3.2 Universidad Python - Cero a Experto - Actualizado](https://www.udemy.com/course/python-total/?couponCode=ST18MT12125AROW)
+
+<section align="center">
+
+![Static Badge](https://img.shields.io/badge/ESTATUS-Proceso-yellow)
+
+</section>
+
+[4. General](./general/)
+
+> [4.1 Hola Mudo](./general/holaMundo/)
+
+<section align="center">
+
+![Static Badge](https://img.shields.io/badge/ESTATUS-Terminado-green)
+
+</section>
+
+<!-- Acceso al repositorio de Python-->
 
 ## Acceso al repositorio
 
 <section align="center">
 
-<a href="https://github.com/Chinicuil87/programacionpython">
+<a href="https://github.com/Chinicuil87/Python">
 <img src="./img/github.png" alt="icono linkdin" style="width:42px;height:42px;">
 </a>
 
 </section>
+
+<!-- Lista de las tecnologias, framework, aplicacion utilizadas-->
 
 ## Tecnologías utilizadas
 
@@ -70,12 +103,16 @@ Repositorio que contiene todos los proyectos y ejercicios hechos en Python, con 
 
 </section>
 
+<!-- Certificados optenidos-->
+
 ## Certificados
 
 [<img src="./img/cfpython.png" width="230"  height="170"><br><sub>Curso profesional de
 Python</sub>](https://codigofacilito.com/certificates/bc9d270a-efaf-4666-9017-5723b8c4022b)
 
 [<img src="./img/u16python.png" width="230" height="170"><br><sub> Python TOTAL - Programador Avanzado en 16 días</sub>](https://www.udemy.com/certificate/UC-b4706151-9b4f-4809-89a7-eadc686231b1/)
+
+<!-- Acceso al perfil del desarrollador-->
 
 ## Desarrollador
 
@@ -84,6 +121,8 @@ Python</sub>](https://codigofacilito.com/certificates/bc9d270a-efaf-4666-9017-57
 [<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela</sub>](https://github.com/Chinicuil87)
 
 </section>
+
+<!-- Redes sociales del desarrollador.-->
 
 ## Redes Sociales.
 
@@ -98,9 +137,11 @@ Python</sub>](https://codigofacilito.com/certificates/bc9d270a-efaf-4666-9017-57
 <a href="https://www.facebook.com/23.Cesar">
 <img src="./img/facebook.png" alt="icono facebook" style="width:42px;height:42px;">
 </a>
+<!--
 <a href="https://clopez.info/">
 <img src="./img/cv.png" alt="icono mi pagina" style="width:42px;height:42px;">
 </a>
+-->
 <a href="mailto:clopezorihuela@hotmail.com">
 <img src="./img/panorama.png" alt="icono correo electronico" style="width:42px;height:42px;">
 </a>
