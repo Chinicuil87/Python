@@ -16,8 +16,9 @@ def main(page: ft.Page):
     nota = ft.TextField(value="mi primera nota", multiline=True)
 
     page.add(nota)
-    
-    def create_note(text)
+
+    def create_note(text):
+        pass
 
 
 # Se instancia la aplicacion
