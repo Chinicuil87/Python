@@ -81,7 +81,9 @@ Repositorio que contiene todos los proyectos y ejercicios hechos en Python, con 
 ## Desarrollador
 
 <section align="center">
-  [<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela</sub>](https://github.com/Chinicuil87)
+
+[<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela</sub>](https://github.com/Chinicuil87)
+
 </section>
 
 ## Redes Sociales
