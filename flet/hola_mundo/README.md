@@ -1,16 +1,14 @@
-<!--Imagen de aplicacion-->
+<!-- Imagen de la aplicación centrada -->
 <p align="center">
-<img src="./img/hola-mundo.png"
- width="300">
+  <img src="./img/hola-mundo.png" width="300">
 </p>
 
-<!-- Nombre de la aplicacion-->
+<!-- Nombre de la aplicación -->
+<h1 align="center">Hola Mundo</h1>
 
-# <h1 align="center">Hola Mundo</h1>
+<!-- Programas y tecnologías utilizadas -->
 
-<!-- Programas y tecnologias utilizadas-->
-
-## Tecnologias
+## Tecnologías
 
 <section align="center">
 
@@ -21,29 +19,31 @@
 
 </section>
 
-## Descripción del proyecto
+## Descripción del Proyecto
 
-Aplicacion de escritorio o web que muestra el famoso Hola mundo.
+Aplicación de escritorio y web que muestra el famoso "Hola Mundo". Este proyecto es una introducción al uso del framework **Flet** para crear interfaces gráficas multiplataforma con Python.
 
-## Estado del proyecto
+## Estado del Proyecto
 
 <section align="center">
 
-![Static Badge](https://img.shields.io/badge/ESTATUS-FINALIZADO-GREY)
+![Static Badge](https://img.shields.io/badge/ESTATUS-FINALIZADO-green)
 
 </section>
 
-## Características de la aplicación y demostración.
+## Características de la Aplicación
 
-> Aplicacion de escritorio o web.
+- **Multiplataforma**: Funciona tanto en escritorio como en la web.
+- **Interactividad**: Incluye botones para incrementar y disminuir un contador.
+- **Sencillez**: Ideal para aprender los conceptos básicos de Flet y Python.
 
-> Bones de para incrementar o disminuir.
+### Demostración
 
-ESCRITORIO
+#### Versión de Escritorio
 
 ![alt text](img/image.png)
 
-WEB
+#### Versión Web
 
 ![alt text](img/image1.png)
 
@@ -52,7 +52,7 @@ WEB
 <section align="center">
 
 <a href="https://github.com/Chinicuil87/Python/tree/main/flet/hola_mundo">
-<img src="../../img/github.png" alt="icono github" style="width:42px;height:42px;">
+  <img src="../../img/github.png" alt="icono github" style="width:42px;height:42px;">
 </a>
 
 </section>
@@ -65,27 +65,27 @@ WEB
 
 </section>
 
-## Redes Sociales.
+## Redes Sociales
 
 <section align="center">
 
 <a href="https://www.linkedin.com/in/cesar-lopez-orihuela-796b82271/">
-<img src="../../img/linkedin.png" alt="icono linkdin" style="width:42px;height:42px;">
+  <img src="../../img/linkedin.png" alt="icono linkedin" style="width:42px;height:42px;">
 </a>
 <a href="https://twitter.com/Cesar_22_">
-<img src="../../img/logotipos.png" alt="icono x" style="width:42px;height:42px;">
+  <img src="../../img/logotipos.png" alt="icono twitter" style="width:42px;height:42px;">
 </a>
 <a href="https://www.facebook.com/23.Cesar">
-<img src="../../img/facebook.png" alt="icono facebook" style="width:42px;height:42px;">
+  <img src="../../img/facebook.png" alt="icono facebook" style="width:42px;height:42px;">
 </a>
 <a href="mailto:clopezorihuela@hotmail.com">
-<img src="../../img/panorama.png" alt="icono correo electronico" style="width:42px;height:42px;">
+  <img src="../../img/panorama.png" alt="icono correo electrónico" style="width:42px;height:42px;">
 </a>
 <a href="https://app.aluracursos.com/user/clopezorihuela">
-<img src="../../img/alura.png" alt="icono alura" style="width:42px;height:42px;">
+  <img src="../../img/alura.png" alt="icono alura" style="width:42px;height:42px;">
 </a>
 <a href="https://github.com/Chinicuil87">
-<img src="../../img/github.png" alt="icono github" style="width:42px;height:42px;">
+  <img src="../../img/github.png" alt="icono github" style="width:42px;height:42px;">
 </a>
 
 </section>

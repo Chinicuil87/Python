@@ -1,17 +1,24 @@
-<!-- Imagen de Python centrada-->
+<!-- Imagen de Python centrada -->
 <p align="center">
-<img src="./img/python.png"
- width="300">
+  <img src="./img/python.png" width="300">
 </p>
 
-<!-- Titulo de README-->
+<!-- Título de README -->
 <h1 align="center" id="python">Programación Python</h1>
 
-<!-- Descripcion de README-->
+<!-- Descripción de README -->
 
 Repositorio que contiene todos los proyectos y ejercicios hechos en Python, con la finalidad de brindar información de mis avances y habilidades adquiridas durante las certificaciones.
 
-<!-- Plataformas de los cursos tomados-->
+## Tabla de Contenidos
+
+- [Plataformas](#plataformas)
+- [Programas](#programas)
+- [Proyectos y Ejercicios](#proyectos-y-ejercicios)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Certificados](#certificados)
+- [Desarrollador](#desarrollador)
+- [Redes Sociales](#redes-sociales)
 
 ## Plataformas
 
@@ -23,108 +30,63 @@ Repositorio que contiene todos los proyectos y ejercicios hechos en Python, con 
 
 </section>
 
-<!-- Programas necesarios-->
-
 ## Programas
 
 1. [Python](https://www.python.org/)
-
-2. [IDE](<https://www.redhat.com/es/topics/middleware/what-is-ide#:~:text=Un%20entorno%20de%20desarrollo%20integrado,gr%C3%A1fica%20de%20usuario%20(GUI).>)
-
-- [VSC](https://code.visualstudio.com/)
-- [PyCharm](https://www.jetbrains.com/es-es/pycharm/download/?section=windows)
-
-<!-- Proyectos y ejercicios realizados -->
+2. **IDE**:
+   - [Visual Studio Code (VSC)](https://code.visualstudio.com/)
+   - [PyCharm](https://www.jetbrains.com/es-es/pycharm/download/?section=windows)
 
 ## Proyectos y Ejercicios
 
-[1. Codigo Facilito](./CodigoFacilito/)
+### [Código Facilito](./CodigoFacilito/)
 
-> [1.1 Curso de Python Profesional](https://codigofacilito.com/cursos/python-profesional)
+- **Curso de Python Profesional**  
+  ![Static Badge](https://img.shields.io/badge/ESTATUS-Terminado-green)
 
-<section align="center">
+### [YouTube](./YouTube/)
 
-![Static Badge](https://img.shields.io/badge/ESTATUS-Terminado-green)
+- Proyectos y ejercicios basados en tutoriales de YouTube.
 
-</section>
+### [Udemy](./Udemy/)
 
-[2. YouTube](./YouTube/)
+- **Python TOTAL - Programador Avanzado en 16 días**  
+  ![Static Badge](https://img.shields.io/badge/ESTATUS-Terminado-green)
 
-[3. Udemy](./Udemy/)
+- **Universidad Python - Cero a Experto - Actualizado**  
+  ![Static Badge](https://img.shields.io/badge/ESTATUS-Proceso-yellow)
 
-> [3.1 Python TOTAL - Programador Avanzado en 16 días](https://www.udemy.com/course/python-total/?couponCode=ST18MT12125AROW)
+### [General](./general/)
 
-<section align="center">
+- **Hola Mundo**  
+  ![Static Badge](https://img.shields.io/badge/ESTATUS-Terminado-green)
 
-![Static Badge](https://img.shields.io/badge/ESTATUS-Terminado-green)
-
-</section>
-
-> [3.2 Universidad Python - Cero a Experto - Actualizado](https://www.udemy.com/course/python-total/?couponCode=ST18MT12125AROW)
-
-<section align="center">
-
-![Static Badge](https://img.shields.io/badge/ESTATUS-Proceso-yellow)
-
-</section>
-
-[4. General](./general/)
-
-> [4.1 Hola Mudo](./general/holaMundo/)
+## Tecnologías Utilizadas
 
 <section align="center">
 
-![Static Badge](https://img.shields.io/badge/ESTATUS-Terminado-green)
-
-</section>
-
-<!-- Acceso al repositorio de Python-->
-
-## Acceso al repositorio
-
-<section align="center">
-
-<a href="https://github.com/Chinicuil87/Python">
-<img src="./img/github.png" alt="icono linkdin" style="width:42px;height:42px;">
-</a>
-
-</section>
-
-<!-- Lista de las tecnologias, framework, aplicacion utilizadas-->
-
-## Tecnologías utilizadas
-
-<section align="center">
-
-![Static Badge](https://img.shields.io/badge/IDE-VSC-blue)
-![Static Badge](https://img.shields.io/badge/LENGUAJE-PYTHON-yellow)
-![Static Badge](https://img.shields.io/badge/PYTHON-3.12-red)
+![Python](https://img.shields.io/badge/Python-3.12-yellow?logo=python&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/IDE-VSCode-blue?logo=visual-studio-code&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/IDE-PYCHARM-greey)
 
 </section>
 
-<!-- Certificados optenidos-->
-
 ## Certificados
 
-[<img src="./img/cfpython.png" width="230"  height="170"><br><sub>Curso profesional de
-Python</sub>](https://codigofacilito.com/certificates/bc9d270a-efaf-4666-9017-5723b8c4022b)
-
-[<img src="./img/u16python.png" width="230" height="170"><br><sub> Python TOTAL - Programador Avanzado en 16 días</sub>](https://www.udemy.com/certificate/UC-b4706151-9b4f-4809-89a7-eadc686231b1/)
-
-<!-- Acceso al perfil del desarrollador-->
+| Certificado                                                            | Descripción                                    | Enlace                                                                                          |
+| ---------------------------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| ![Curso Profesional de Python](./img/cfpython.png)                     | Curso profesional de Python                    | [Ver certificado](https://codigofacilito.com/certificates/bc9d270a-efaf-4666-9017-5723b8c4022b) |
+| ![Python TOTAL - Programador Avanzado en 16 días](./img/u16python.png) | Python TOTAL - Programador Avanzado en 16 días | [Ver certificado](https://www.udemy.com/certificate/UC-b4706151-9b4f-4809-89a7-eadc686231b1/)   |
 
 ## Desarrollador
 
 <section align="center">
-
-[<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela</sub>](https://github.com/Chinicuil87)
-
+  [<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela</sub>](https://github.com/Chinicuil87)
 </section>
 
-<!-- Redes sociales del desarrollador.-->
+## Redes Sociales
 
-## Redes Sociales.
+Conéctate conmigo en mis redes sociales:
 
 <section align="center">
 
