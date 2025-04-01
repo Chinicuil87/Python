@@ -10,6 +10,8 @@ def main(ventana: ft.Page):
     Args:
         ventana (ft.Page): Objeto que representa la ventana principal de la aplicación.
     """
+    # Titulo de la aplicacion.
+    ventana.title = "Primer programa Flet"
     # Crear un texto con el valor "Hola mundo" y color verde
     t = ft.Text(value="Hola mundo", color="green")
 
