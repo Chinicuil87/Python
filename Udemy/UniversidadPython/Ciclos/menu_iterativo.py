@@ -1,10 +1,4 @@
-# Titulo: Menu iterativo
-# Ejercicio de la funcion print
-# Curso: Universidad Python
-# Plataforma: Udemy
-# Programador: Cesar Lopez Orihuela.
 
-# Aplicacion de consola.
 
 # Programa que simula un menu iterativo para crear y eliminar cuentas.
 # si el usuario elige.
